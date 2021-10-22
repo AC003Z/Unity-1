@@ -1,3 +1,10 @@
+cd ..
+
+cd folder
+
+git config --global user.email "archiwit.m@gmail.com"
+git config --global user.name "AC003Z"
+
 
 git add .
 
